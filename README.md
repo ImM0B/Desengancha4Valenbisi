@@ -7,7 +7,7 @@ Este script de bash te permite automatizar la extracción de una bici de Valenbi
 Para obtener este script y los archivos necesarios, puedes clonar este repositorio utilizando el siguiente comando `git clone` en tu terminal:
 
 ```bash
-git clone https://github.com/ImM0B/GymBookerUPV.git
+git clone https://github.com/ImM0B/Desengancha4Valenbisi.git
 ```
 
 **Permisos de Ejecución**: Dale permisos de ejecución al script `desengancha.sh` utilizando el siguiente comando:
